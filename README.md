@@ -1,5 +1,7 @@
 <h1 align="center">Olá, mundo 👋</h1>
 
+<p>Software Engineer | Frontend | Backend</p>
+
 ## Redes sociais
 <div>
   <a href="https://www.linkedin.com/in/josianebarros03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
