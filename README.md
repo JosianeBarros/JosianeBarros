@@ -2,10 +2,13 @@
 
 <p>Software Engineer | Frontend | Backend</p>
 
-## Redes sociais e Blog
+## Redes sociais
 <div>
   <a href="https://www.linkedin.com/in/josianebarros03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
+## Blog
+<div>
   <a href="https://medium.com/@josianebarros" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
